@@ -1,0 +1,24 @@
+{
+  "name": "adder-library",
+  "version": "1.0.0",
+  "description": "A simple library to add two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "adder",
+    "addition",
+    "math"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarioGLDIGI/adder-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarioGLDIGI/adder-library/issues"
+  },
+  "homepage": "https://github.com/MarioGLDIGI/adder-library#readme",
+  "author": "Mario <mgarcia@digi.com>",
+  "license": "MIT"
+}
